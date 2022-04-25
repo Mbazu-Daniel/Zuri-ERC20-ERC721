@@ -15,13 +15,13 @@ NFT
 [ {
   "name": "Zuri",
   "description": "Blockchain developers",
-  "image": "ipfs://Qmd6UvRMhQ6EgoYAQuYP7UBCfZmvQ4e2iQWisoLPPtspSw"
+  "image": "ipfs.io/ipfs/Qmd6UvRMhQ6EgoYAQuYP7UBCfZmvQ4e2iQWisoLPPtspSw"
   }, 
 
   {
   "name": "Blockgames",
   "description": "Best community for Blockchain developers",
-  "image": "ipfs://QmTe5VMFVvUfsjagiaRMScwebZBnnTdPY167V5njA3i4zL"
+  "image": "ipfs.io/ipfs/QmTe5VMFVvUfsjagiaRMScwebZBnnTdPY167V5njA3i4zL"
     
   }
 ]
